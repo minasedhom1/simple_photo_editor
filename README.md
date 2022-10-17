@@ -4,7 +4,7 @@ A photo editor program that allows the user to apply a variety of filters and fo
 
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
-[]!(http://g.recordit.co/uOEpORj8kB.gif)
+[]!(https://g.recordit.co/uOEpORj8kB.gif)
 
-<img src='http://g.recordit.co/uOEpORj8kB.gif' />
+<img src='https://g.recordit.co/uOEpORj8kB.gif' />
 
