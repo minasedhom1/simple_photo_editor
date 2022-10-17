@@ -4,5 +4,5 @@ A photo editor program that allows the user to apply a variety of filters and fo
 
 ## Video Walkthrough
 
-![](https://recordit.co/urUnCIn5Y5)
+![](https://recordit.co/urUnCIn5Y5.gif)
 
